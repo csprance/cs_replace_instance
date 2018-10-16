@@ -14,4 +14,4 @@
     * Restart Modo
     
 ## Other
-Based on the kit by Muha on the foundry forums.
+Based on the idea for the kit by Muha on the foundry forums.
