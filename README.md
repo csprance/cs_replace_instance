@@ -4,7 +4,7 @@
 ## Usage
 * Select Instance(s)
 * Select source mesh to replace instances with
-* Press replace instance button or run `cs_replace_instance.run` 
+* Press replace instance button or run `cs_replace_instance.replace` 
 
 ## Install
 * Drag and drop cs_replace_instance folder into Modo kits folder
